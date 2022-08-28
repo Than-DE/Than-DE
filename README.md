@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter, Python, Node.js
+- 🌱 I’m currently mastering building full-stack apps and learning to deploy them on the interwebs.
 - 📚 Psychology student majoring in Cognitive Neuropsychology
-- 🔭 I’m currently working on Taglot
 - 🇵🇭 Half Filipino
-
-### Ask me about: Taglot
-
-Taglot is a quiz-based vocabulary learning app for Tagalog.
-
-- Website: https://taglot.app
-- Email: kumusta@taglot.app
