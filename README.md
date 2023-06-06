@@ -2,4 +2,11 @@
 
 - 🌱 I’m currently mastering building full-stack apps and learning to deploy them on the interwebs.
 - 📚 Psychology student majoring in Cognitive Neuropsychology
-- 🇵🇭 Half Filipino
+- 🧑‍🔬 React, Vue, Python, TypeScript
+
+#### What I'm working on
+🧠 [zenquiz.app](https://zenquiz.app) - an AI quiz generator
+
+---
+
+✍️ I'm also [writing articles](https://medium.com/@marckohler) from time to time.
