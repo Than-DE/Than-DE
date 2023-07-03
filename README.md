@@ -6,7 +6,3 @@
 
 #### What I'm working on
 🧠 [zenquiz.app](https://zenquiz.app) - an AI quiz generator
-
----
-
-✍️ I'm also [writing articles](https://medium.com/@marckohler) from time to time.
