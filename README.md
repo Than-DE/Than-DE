@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 [I’m](https://marckohler.dev) currently mastering building full-stack apps and learning to deploy them on the interwebs.
-- 📚 Psychology student majoring in Cognitive Neuropsychology
+- 📚 Psychology majored in Cognitive Neuropsychology
 - 🧑‍🔬 React, Vue, Python, TypeScript
 - 📐 Nuxt, Next
 
